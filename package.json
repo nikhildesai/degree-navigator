@@ -1,0 +1,22 @@
+{
+  "name": "degree-navigator",
+  "version": "1.0.0",
+  "description": "Degree Navigator POC: Build a Proof-Of-Concept app that assist a client select their School with financing in mind. The plan is to use data sources such as the \"College Scorecard\" data from Dept of Ed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhildesai/degree-navigator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhildesai/degree-navigator/issues"
+  },
+  "homepage": "https://github.com/nikhildesai/degree-navigator#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+  }
+}
